@@ -1,0 +1,12 @@
+@import './bootstrap/customizations.scss';
+
+html, body {
+    height: 100%;
+    min-height: 100%;
+    background: url('./images/img_ihatetomatoes.png') center center no-repeat;
+}
+body {
+    h1 {
+        color: $brand-success;
+    }
+}
